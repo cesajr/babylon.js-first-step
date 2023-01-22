@@ -1,6 +1,6 @@
 # Babylon.js First Step
 
-## Link with my creation
+## Link with my Babylon.js creation:
 https://cesajr.github.io/babylon.js-first-step/
 
 ## Link with tutorial:
